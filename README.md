@@ -28,7 +28,7 @@ pip install requests dnspython python-whois
 2. Run the script:
 
     ```bash
-    python domain_info_tool.py
+    python domaininfotool.py
     ```
 
 3. Follow the prompts:
